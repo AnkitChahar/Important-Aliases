@@ -1,0 +1,5 @@
+alias x='exit'
+alias y='yay'
+alias clean='yay -Rc'
+alias update='yay --noconfirm -Syyu'
+alias remove='yay -Rns'
